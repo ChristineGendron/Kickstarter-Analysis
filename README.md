@@ -13,11 +13,11 @@ Using Excel to determine whether there are specific factors that make a Kickstar
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Launch Month Image]("https://live.staticflickr.com/65535/52156203699_28c0b5b021_b.jpg")
+![Launch Month Image](Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes vs Goals]("https://live.staticflickr.com/65535/52155974113_288fee19b7_h.jpg")
+![Outcomes vs Goals](Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
