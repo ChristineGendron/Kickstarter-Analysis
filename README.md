@@ -1,3 +1,4 @@
+
 # Kickstarting with Excel
 
 ## Overview of Project
@@ -12,11 +13,11 @@ Using Excel to determine whether there are specific factors that make a Kickstar
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Launch Month Image]("https://github.com/ChristineGendron/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png")
+![Launch Month Image]("https://live.staticflickr.com/65535/52156203699_28c0b5b021_b.jpg")
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes vs Goals]("https://github.com/ChristineGendron/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png")
+![Outcomes vs Goals]("https://live.staticflickr.com/65535/52155974113_288fee19b7_h.jpg")
 
 ### Challenges and Difficulties Encountered
 
@@ -36,7 +37,7 @@ Campaigns with modest goals have the most consistent rates of success. It might 
 
 - What are some limitations of this dataset?
 
-A major determining factor in the success of a Kickstarter campaign is visibility. The more that buzz is generated around a campaign, the more likely it is to succeed. It could have been started by an influencer, picked up by a media outlet, heavily shared within a supportive community, et cetera. We are also not able to use this data to look at external circumstances that would cause certain times of the year to have more success than others. (You can see this manifest in the table that highlights Edinburgh plays. Four of the five featured plays are associated with a particular event, the Fringe Festival). The only metric that touches on this factor within our data set is "Staff Pick".
+A major determining factor in the success of a Kickstarter campaign is visibility. The more that buzz is generated around a campaign, the more likely it is to succeed. It could have been started by an influencer, picked up by a media outlet, heavily shared within a supportive community, et cetera. (You can see this manifest in the table that highlights Edinburgh plays. Four of the five featured are associated with the Fringe Festival). The only metric that touches on this factor within our data set is "Staff Pick".
 
 - What are some other possible tables and/or graphs that we could create?
 
